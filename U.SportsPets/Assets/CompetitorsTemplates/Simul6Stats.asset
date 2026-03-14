@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd724f84af48e34abae2f1f82c20d5d, type: 3}
+  m_Name: Simul6Stats
+  m_EditorClassIdentifier: 
+  force: 5
+  luck: 8
+  speed: 4
+  accuracy: 2
+  spirit: 6
+  reflexes: 4
+  endurance: 8
+  meshCreature: {fileID: 8215089226395905325, guid: 372e9cc112ff51c4c88dd165f0666bab,
+    type: 3}
+  idPlayer: 6
